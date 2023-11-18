@@ -57,9 +57,9 @@ export default function App() {
     setUltimo(numero);
     setNumero(0);
 
-    let ss = 0;
-    let mm = 0;
-    let hh = 0;
+    ss = 0;
+    mm = 0;
+    hh = 0;
     setBotao('INICIAR')
 
   }
